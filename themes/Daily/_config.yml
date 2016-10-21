@@ -1,0 +1,54 @@
+# basic
+title: 单单是你这么可人
+subtitle: Minimalism, simplicity and refined details
+favicon: https://hexo.io/icon/favicon-96x96.png
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+logo: https://hexo.io/logo.svg
+
+# disqus
+#disqus_shortname: drakeleung
+
+highlight:
+  enable: true
+  line_number: false
+  auto_detect: false
+  tab_replace:
+
+# nav #
+nav:
+  首页: /
+  文章: /archives
+  分类: /categories
+  标签: /tags
+  作品: /works
+  关于我: /about
+  # about: about
+  # rss: atom.xml
+
+# hexo-renderer-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+# Default post title
+default_post_title: 无题
+
+# social
+social:
+  github: http://tankeren.cn
+  # weibo: http://weibo.com/10010800
+  # mail: mailto:gallenhu@foxmail.com
+  # twitter: https://twitter.com/GallenHu
+
+# widget
+#   title: 标题
+#   content: 内容
+widget:
+  title: 关于本站
+  content: <ul><li><a href="/about">单单是你这么可人</a></li></ul>
+
+footer: Powered by  chan
