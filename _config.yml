@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 单单可人博客
 subtitle:
 description:
 author: chan
@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://tankeren.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -49,6 +49,8 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  WEB前端: web
+  随笔: essay
 tag_map:
 
 # Date / Time format

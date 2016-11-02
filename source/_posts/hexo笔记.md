@@ -4,6 +4,7 @@ photos: /assets/img/hexo.jpg
 description: hexo常用命令笔记和遇到的问题。
 date: 2016-10-20 11:25:17
 tag: [hexo]
+categories: web
 ---
 ## HEXO ##
 

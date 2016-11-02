@@ -3,7 +3,8 @@ title: Chrome的开发必备小技巧
 photos: /assets/img/chrom.jpg
 description: 在本篇文章中，我们将介绍15个炫酷且实用的技巧，这将更快的提高你的开发效率。
 date: 2016-10-20 11:25:17
-tag: [Chrome,调试工具]
+categories: web
+tag: [Chrome,调试工具,web]
 ---
  
 

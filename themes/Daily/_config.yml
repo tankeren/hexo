@@ -21,8 +21,7 @@ highlight:
 nav:
   首页: /
   文章: /archives
-  分类: /categories
-  标签: /tags
+  标签: /taglist
   作品: /works
   关于我: /about
   # about: about
